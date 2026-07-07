@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cristianporco.it/app/editor-di-configurazioni-personali-con-template-pronti/sitemap.xml
